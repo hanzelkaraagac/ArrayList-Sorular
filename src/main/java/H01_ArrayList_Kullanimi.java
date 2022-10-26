@@ -64,7 +64,7 @@ public class H01_ArrayList_Kullanimi {
             System.out.println(nums);//[21, 50, 23, 185, 18, 20, 23, 185]
 
             //ArrayList'lerin eleman sayisini nasil bulunur?
-            int elemanSayisi = nums.size(); // Array'ler hakkidna "Lenght" kullanin. Listler hakkinda konusurken "Size" diyin
+            int elemanSayisi = nums.size(); // Array'ler hakkinda "Lenght" kullanin. Listler hakkinda konusurken "Size" diyin
             System.out.println(elemanSayisi);//8
 
             //ArrayList'lerde herhangi bir eleman nasil secilir?
