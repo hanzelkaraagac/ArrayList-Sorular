@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class H_08_Kullanicidan_Bir_Harf_Aliniz_Harf_Sizdeki_Listin_Icinde_Varsa_0_Harfi_Bulunduya_Ceviriniz_Yoksa_O_Harfi_Liste_Ekleyiniz {
+public class H08_Kullanicidan_Bir_Harf_Aliniz_Harf_Sizdeki_Listin_Icinde_Varsa_0_Harfi_Bulunduya_Ceviriniz_Yoksa_O_Harfi_Liste_Ekleyiniz {
     public static void main(String[] args) {
 
         //Example 2: Kullanicidan bir harf aliniz, harf sizdeki List'in icinde varsa

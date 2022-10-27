@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class H_07_Size_Verilen_Bir_Listteki_Elemanlari_Tekrarsiz_Olarak_Yaziniz {
+public class H07_Bir_Listteki_Elemanlari_Tekrarsiz_Olarak_Yaziniz {
     public static void main(String[] args) {
 
         //Example 1: Size Verilen bir Listteki elemanlari tekrarsiz olarak yaziniz.
